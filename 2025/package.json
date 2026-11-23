@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "day01pt1": "node Day01/Day1Puzzle1.ts",
+    "day01pt2": "node Day01/Day1Puzzle2.ts",
+    "day02pt1": "node Day02/D02P01.ts",
+    "day02pt2": "node Day02/D02P02.ts",
+    "day03pt1": "node Day03/D03P01.ts",
+    "day03pt2": "node Day03/D03P02.ts"
+  },
+  "author": "R.J. de Werj",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
